@@ -1,0 +1,6 @@
+{
+  "name": "Borahae Archive — パーソナル推し活手帳",
+  "description": "BTSとARMYのためのプライベート推し活Webアプリ。日替わり名言・記念日カウントダウン・気分別処方箋・推し活日記＆トレカコレクション管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
